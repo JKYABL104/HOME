@@ -1,0 +1,1 @@
+अपनी photos इसी folder में PHOTO_GUIDE.txt में दिए filenames के अनुसार डालें.
